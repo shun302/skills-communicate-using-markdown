@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/007d3e68-3f6c-4fb7-a1b2-a5f12244b461" /># Daily Learning
+# Daily Learning
 ## Morning Planning
 ## Review
 
